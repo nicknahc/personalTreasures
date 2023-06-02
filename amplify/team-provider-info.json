@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-personaltreasures-dev-195535-authRole",
+      "UnauthRoleArn": "arn:aws:iam::788271139782:role/amplify-personaltreasures-dev-195535-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::788271139782:role/amplify-personaltreasures-dev-195535-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-personaltreasures-dev-195535-deployment",
+      "UnauthRoleName": "amplify-personaltreasures-dev-195535-unauthRole",
+      "StackName": "amplify-personaltreasures-dev-195535",
+      "StackId": "arn:aws:cloudformation:us-west-1:788271139782:stack/amplify-personaltreasures-dev-195535/c8bf7860-0027-11ee-aa44-02709a5d1d3f",
+      "AmplifyAppId": "d2ooazssqpmfwt"
+    },
+    "categories": {
+      "api": {
+        "personaltreasures": {}
+      },
+      "auth": {
+        "personaltreasurescd46169d": {}
+      }
+    }
+  }
+}
