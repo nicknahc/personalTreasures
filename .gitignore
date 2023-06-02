@@ -13,12 +13,6 @@ expo-debug.log
 yarn.lock
 yarn-error.log
 
-# TypeScript
-*.tsbuildinfo
-*.js
-*.jsx
-*.tsx
-
 # Amplify
 .amplify/
 amplify-configuration/
